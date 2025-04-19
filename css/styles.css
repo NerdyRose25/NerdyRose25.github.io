@@ -5,7 +5,7 @@ h1 {
     font-size: larger; 
 }
 body{
-    background-color: aquamarine;
+    background-color: rgb(229, 255, 127);
     color: coral;
 }
 
@@ -16,7 +16,7 @@ h2 {
 }
 
 h1.title {
-    color: rgb(255, 119, 0);
+    color: rgb(0, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     font-size: 40px
 }
