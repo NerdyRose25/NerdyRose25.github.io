@@ -22,7 +22,7 @@ h1.title {
 }
 
 products.html {
-    display: flex; 
+    display: flex; /* or  inline-flex */
 }
 
 #nerdyroses.github.io {
